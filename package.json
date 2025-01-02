@@ -1,17 +1,9 @@
 {
-
   "dependencies": {
-
     "express": "^4.21.2"
-
   },
-
   "scripts": {
-
-    "build": "echo 'Build process triggered'"
+    "build": "echo 'Build process triggered'",
     "test": "echo \"Error: no test specified\" && exit 1"
-
   }
-
 }
- 
