@@ -16,7 +16,7 @@ pipeline {
         stage('Build with Maven') {
             steps {
                 echo 'Building with Maven...'
-                withMaven(maven: 'Maven-3.8.6') { // Replace with your Maven installation name in Jenkins
+                withMaven(maven: 'Maven-3.9.9') { // Replace with your Maven installation name in Jenkins
                     sh 'mvn clean install'
                 }
             }
