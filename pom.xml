@@ -12,8 +12,8 @@
     <description>A Node.js application with Maven build process</description>
 
     <properties>
-        <node.version>16.20.0</node.version> <!-- Specify the Node.js version -->
-        <npm.version>8.19.4</npm.version>    <!-- Specify the npm version -->
+        <node.version>18.20.4</node.version> <!-- Specify the Node.js version -->
+        <npm.version>10.7.0</npm.version>    <!-- Specify the npm version -->
         <frontend.plugin.version>1.12.2</frontend.plugin.version>
     </properties>
 
