@@ -14,7 +14,7 @@
     <properties>
         <node.version>18.20.4</node.version> <!-- Specify the Node.js version -->
         <npm.version>10.7.0</npm.version>    <!-- Specify the npm version -->
-        <frontend.plugin.version>1.12.1</frontend.plugin.version>
+        <frontend.plugin.version>1.15.1</frontend.plugin.version>
     </properties>
 
     <build>
